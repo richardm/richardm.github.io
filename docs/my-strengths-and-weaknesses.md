@@ -1,5 +1,7 @@
 # Working with Me
 
+_I make engineers and engineering organizations better._
+
 ## I Excel:
 
 - When given time to read, reflect, and apply what I'm learning.
