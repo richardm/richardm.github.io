@@ -2,6 +2,6 @@
 
 My GitHub Page
 
-Installation Instructions for Dev Machine:
+## Installation Instructions for Dev Machine:
 
 - https://jekyllrb.com/docs/installation/macos/

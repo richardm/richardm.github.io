@@ -1,3 +1,10 @@
+---
+layout: page
+title: People are not their behaviors
+permalink: /principles/people-are-not-their-behaviors
+parent: Leadership Principles
+---
+
 # People are not their behaviors
 
 Related principles:
