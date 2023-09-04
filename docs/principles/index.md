@@ -47,10 +47,6 @@ has_children: true
 - **Hire people who put the team's success above their individual success.**
 - **Practice disconfirmation.** Whether you want to hire someone or pass, look for evidence that you're wrong.
 - **Only hire people who bring up the average for their role and level.**
-- **Trust your gut, and look for bias.** Your instincts are based in your experiences, and experienced people have highly refined instincts. Learn when to trust your gut and when not to. Deveop a curiosity about why you have strong instincts. Critique your instincts. Look for bias. Don't follow it blindly. By doing so, your intuition will become even sharper and more accurate.
-  - and attempt to reverse engineer it. If your gut says not to make a hire, try to figure out why. You may make a few mistakes learning to trust your gut, but it’s important to develop this ability. -> Learn when to trust your gut and when not to trust your gut (aka instinct, intuition).
-- Develop a curiosity about your intuitions. Your intuitions are based in your experiences. Learn to reduce them to writing (as principles) so you can test and refine them. Formalize your thinking and share it to give others the benefit of your insights.
-
 - **Hire for skills that are not easily taught.** If someone has demonstrated they can master one programming framework, it is likely they can master another. Unless you truly need an expert in that framework, it should not be a reason to disqualify them.
 - Hire people who are focused on their team’s success.
 
@@ -209,6 +205,10 @@ TODO: Move reading-related quotes to the Book Summaries intro:
 
 - Principle: You only get better when you invest effort.
   > "I'm good at everything I put effort into." - Polina Giralt.
+
+- **Trust your gut, and look for bias.** Your instincts are based in your experiences, and experienced people have highly refined instincts. Learn when to trust your gut and when not to. Deveop a curiosity about why you have strong instincts. Critique your instincts. Look for bias. Don't follow it blindly. By doing so, your intuition will become even sharper and more accurate.
+  - and attempt to reverse engineer it. If your gut says not to make a hire, try to figure out why. You may make a few mistakes learning to trust your gut, but it’s important to develop this ability. -> Learn when to trust your gut and when not to trust your gut (aka instinct, intuition).
+- Develop a curiosity about your intuitions. Your intuitions are based in your experiences. Learn to reduce them to writing (as principles) so you can test and refine them. Formalize your thinking and share it to give others the benefit of your insights.
 
 ## Other Principles
 
