@@ -58,7 +58,7 @@ has_children: true
 - Pay people at the top of their personal market (the Netflix approach). See [Create a meritocracy](/principles/meritocracy)
 - Pay people not addresses.
 - Pay people for the value they provide, not their cost of living or the cost of labor in their market
-- Don't stack rank your people if you want them to truly put their teammates first. See [Align incentives].
+- Don't stack rank your people if you want them to truly put their teammates first. See [Align incentives](/principles/align-incentives).
 
 ## Principles for Building Effective Teams
 
@@ -102,20 +102,6 @@ has_children: true
 ## Diversity & Inclusion
 
 > "If you're under-represented, getting promoted is diversity work. Being visibly successful is the most powerful diversity work she can do. She can be the representation someone needs. She can be in a much better position for mentorship and sponsorship." - Tanya Reilly
-
-## Principles for Success
-
-TODO: Move these to Life Principles:
-
-- Knowing when not to bet is as important as knowing what bets to make
-- Remember the Pareto Principle (the 80-20 rule) and identify the 20%
-- **Fall in love with the problem, not the solution**
-- **Fall in love with the journey, not the destination**
-- **Live in the present.** The past is a memory, and the future is a fantasy. You can only act in the present, so be present.
-- **Cultivate an abundance mindset.** A scarcity mindset is a trauma response that optimizes for conservation rather than growth.
-- **Get to the point you can prioritize growth over conservation.** A scarcity mindset is a trauma response that forces you to conserve rather than to grow. Cultivate an abundance mindset focused on becoming all you can be.
-- Surround yourself with people who are continually learning.
-- Understand the impact of compounding and invest early in things that compound. It doesn’t matter so much how much a person knows today as long as they are continuously learning.
 
 ## Principles for Writing
 
