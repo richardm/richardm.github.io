@@ -48,15 +48,15 @@ has_children: true
 - **Practice disconfirmation.** Whether you want to hire someone or pass, look for evidence that you're wrong.
 - **Only hire people who bring up the average for their role and level.**
 - **Hire for skills that are not easily taught.** If someone has demonstrated they can master one programming framework, it is likely they can master another. Unless you truly need an expert in that framework, it should not be a reason to disqualify them.
-- Hire people who are focused on their team’s success.
-- **Past action is the best predictor of future behavior.**
+- ~~Hire people who are focused on their team’s success.~~ Redundant.
+- **Past behavior is the best predictor of future behavior.**
 > “People can change, but the best predictor of future actions is someone’s past actions.” - John Kotter
 
 ## Principles for Building Effective Teams
 
-- **If you have a premium team, pay for premium tools** Don't make the mistake of spending dollars in labor to save pennies in tools. (See: Scarcity mindset.)
+- **If you have a premium team, pay for premium tools.** Don't make the mistake of spending dollars in labor to save pennies in tools. (See: Scarcity mindset.)
 - Building great teams at work is about assembling the right combination of people and skills, much like sports teams are comprised of different roles.
-- **Pair people with complementary skills.** Understand that people have different strengths and that the whole can be more than the sum of the parts; shore up weaknesses, but don’t try to make everyone be the same.
+- **Pair people with complementary skills.** Understand that people have different strengths and that the whole can be more than the sum of the parts; shore up weaknesses, but don’t try to make everyone be the same. Instead, build teams by combining people with different strengths.
 - **Pair action-oriented people with methodical people to get the best of both.** Be careful to do this effectively or it will just frustrate both people.
 - **Agreeable, conscientious people are easy to manage.** They are intrinsically motivated and eager to please others. They will do more than their fair share of the work. Value them and protect them, and they will stay with you for the long haul. Be careful not to let these people be taken advantage of by their more demanding counterparts. Don’t let them burn themselves out.
 - **Disagreeable people challenge the organization to improve.** You need some of these people to get better as an organization. A team full of only agreeable people won’t improve as fast as a team with a couple of disagreeable people. But as a manager, you cannot let the disagreeable people run over the agreeable people.
@@ -65,7 +65,7 @@ has_children: true
 - Hire some assertive people. **Assertive people move things forward.** They’re decisive when the team is spinning in circles. But some people are unaware they’re being aggressive rather than assertive. **Assertive people say what needs to be said.** And they're often willing to say it when others are not. Good assertiveness looks like Being Bold. Bad assertiveness looks like being un-Inclusive.
 - **Recognize the difference between assertive vs aggressive.** Assertive people challenge the team to improve; aggressive people sacrifice others to advance their goals.
 - **Teams are the minimum unit of delivery.** Not the individual. Teams—not individuals—are responsible for delivering features. Teams—not individuals—are responsible for quality. Estimates should be based on the team’s capacity, not an individual’s capacity.
-- **Avoid single points of failure.** This applies to people as well as systems.
+- **Avoid single points of failure.** This applies to people as well as systems. The magic number is three. That way, when the primary goes out, you still have redundancy. The worst time to train a backup is when the new primary is already overwhelmed with their new responsibilities. Train your backup's backup before you need them.
 - Every line of code should have a clear owner; code that is owned by everyone is not owned by anyone. Code should only be owned by teams, not individuals.
 
 ## Principles for Getting Things Done
@@ -83,9 +83,11 @@ has_children: true
 ## Culture
 
 - [You can’t delegate culture](/principles/you-cant-delegate-culture)
-- The standard you ignore is the standard you accept. - David Morrison (paraphrased)
+
+> "The standard you ignore is the standard you accept." - David Morrison (paraphrased)
+
 - Generally, praise in public and criticize in private.
-- Criticize egregious behavior in public. Being seen to tolerate bad behavior can give the impression that behavior is ok.
+- **Criticize egregious behavior in public.** Being seen to tolerate bad behavior can give the impression that behavior is ok.
 
 ## Compensation
 
