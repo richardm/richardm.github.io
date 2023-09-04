@@ -21,3 +21,27 @@ has_children: true
 - **Get to the point you can prioritize growth over conservation.** A scarcity mindset is a trauma response that forces you to conserve rather than to grow. Cultivate an abundance mindset focused on becoming all you can be.
 - Surround yourself with people who are continually learning.
 - Understand the impact of compounding and invest early in things that compound. It doesn’t matter so much how much a person knows today as long as they are continuously learning.
+
+# 
+## Who to work with and where to work
+
+- **Most adult learning occurs on the job.** Look for a job that uses the skills you want to develop, and look for a company that’s great at the skill you want to develop. What to become a good manager? Work at a place with great managers. Want to be a great investor? Work at a place with great investors. Want to become a great software engineer? Etc…
+- Life is short, and we spend most of it at work.
+- You become like the people you associate with most closely. Many of these people are coworkers. Choose those people carefully.
+- Prioritize working with good people.
+- Don’t work for jerks. Don’t work with jerks. Don’t hire jerks. (But remember, [people are not their behavior](/principles/people-are-not-their-behaviors). Do I need to refine this principle? Since this is a draft, I consider a “jerk” someone who repeatedly and consistently demonstrates a pattern of jerk-like behavior and disregard for others.)
+- If you are a high achiever, seek to work in a place that values accountability.
+
+## On Learning
+
+> “When you’re memorizing something, it’s an indication that you don’t understand it. You should be able to re-derive anything on the spot and if you can’t, you don’t know it.” - Naval Ravikant
+
+> **“Your resume is just a catalog of all your suffering.”** Nothing worthwhile in life comes without pain and suffering of some level
+
+## On Happiness
+
+- "Success is getting what you want. Happiness is wanting what you get." - Dale Carnegie
+
+> “Desire is a contract that you make with yourself to be unhappy until you get what you want” - Naval Ravikant
+
+> “It’s in responsibility that most people find the meaning that sustains them through life. It’s not in happiness. It’s not in impulsive pleasure.” - Jordan Peterson
