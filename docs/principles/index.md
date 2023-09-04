@@ -18,10 +18,6 @@ has_children: true
 - [**Create a meritocracy**](/principles/meritocracy)
 - **High performers love accountability.** They want to be recognized and rewarded for their efforts, and they want to be continually improving. The best way to hire and retain the best people is to hold everyone accountable. A sure-fire way to lose your top performers to disengagement or attrition is to fail to hold everyone accountable.
 
-## Diversity & Inclusion
-
-> "If you're under-represented, getting promoted is diversity work. Being visibly successful is the most powerful diversity work she can do. She can be the representation someone needs. She can be in a much better position for mentorship and sponsorship." - Tanya Reilly
-
 ## Principles for Managing People Effectively
 
 - **Be the boss you wish you had.**
@@ -107,7 +103,13 @@ has_children: true
 
 > “When you have great relationships, any process works. When you don’t, no process works.” - Will Larson
 
+## Diversity & Inclusion
+
+> "If you're under-represented, getting promoted is diversity work. Being visibly successful is the most powerful diversity work she can do. She can be the representation someone needs. She can be in a much better position for mentorship and sponsorship." - Tanya Reilly
+
 ## Principles for Success
+
+TODO: Move these to Life Principles:
 
 - Knowing when not to bet is as important as knowing what bets to make
 - Remember the Pareto Principle (the 80-20 rule) and identify the 20%
@@ -144,11 +146,11 @@ has_children: true
 
 ## On Reading
 
+TODO: Move reading-related quotes to the Book Summaries intro:
+
 > “My policy [is] reading every annual report in sight that can further my knowledge _about anything._” -Warren Buffett
 
 > “I read and read and read. I probably read _5 to 6 hours per day_. I read five _daily newspapers_, I read a fair number of _magazines_, I read _10k’s_, I read _annual reports_, and I read a lot of other things too. I’ve always enjoyed reading. I love reading biographies for example.” – [Warren Buffett](http://mastersinvest.com/reading-quotes)
-
-“I have known no wise people who didn’t read all the time. None. Zero. You’d be surprised how much Warren reads, at how much I read.” - Charlie Munger
 
 **Past action is the best predictor of future behavior.**
 
@@ -209,6 +211,8 @@ has_children: true
   > "I'm good at everything I put effort into." - Polina Giralt.
 
 ## Other Principles
+
+TODO: Move these under the appropriate principles above rather than as a separate section.
 
 Other sources of inspiration for operating principles include:
 
