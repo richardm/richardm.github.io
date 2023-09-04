@@ -98,8 +98,9 @@ has_children: true
 - Don't stack rank your people if you want them to truly put their teammates first. See [Align incentives](/principles/align-incentives).
 
 ## People & Relationships
+* **Everyone’s behavior makes sense to them.** (See the ABCs of Performance Management)
 
-> “When you have great relationships, any process works. When you don’t, no process works.” - Will Larson
+> “When you have great relationships, any process works. When you don’t, no process works.” - Will Larson (See: Individuals and interactions over processes and tools.)
 
 ## Diversity & Inclusion
 
