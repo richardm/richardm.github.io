@@ -49,16 +49,8 @@ has_children: true
 - **Only hire people who bring up the average for their role and level.**
 - **Hire for skills that are not easily taught.** If someone has demonstrated they can master one programming framework, it is likely they can master another. Unless you truly need an expert in that framework, it should not be a reason to disqualify them.
 - Hire people who are focused on their team’s success.
-
+- **Past action is the best predictor of future behavior.**
 > “People can change, but the best predictor of future actions is someone’s past actions.” - John Kotter
-
-## Compensation
-
-- Create a meritocracy.
-- Pay people at the top of their personal market (the Netflix approach). See [Create a meritocracy](/principles/meritocracy)
-- Pay people not addresses.
-- Pay people for the value they provide, not their cost of living or the cost of labor in their market
-- Don't stack rank your people if you want them to truly put their teammates first. See [Align incentives](/principles/align-incentives).
 
 ## Principles for Building Effective Teams
 
@@ -95,6 +87,14 @@ has_children: true
 - Generally, praise in public and criticize in private.
 - Criticize egregious behavior in public. Being seen to tolerate bad behavior can give the impression that behavior is ok.
 
+## Compensation
+
+- Create a meritocracy.
+- Pay people at the top of their personal market (the Netflix approach). See [Create a meritocracy](/principles/meritocracy)
+- Pay people not addresses.
+- Pay people for the value they provide, not their cost of living or the cost of labor in their market
+- Don't stack rank your people if you want them to truly put their teammates first. See [Align incentives](/principles/align-incentives).
+
 ## People & Relationships
 
 > “When you have great relationships, any process works. When you don’t, no process works.” - Will Larson
@@ -110,35 +110,6 @@ has_children: true
 - Share your ideas early, get feedback, and iterate. See [Just start](/principles/just-start).
 - Seek input from people who are smarter than you, dumber than you, and have different perspectives.
 - Ideas should be shared freely so they can be improved; execution is your competitive advantage.
-
-## Who to work with and where to work
-
-- **Most adult learning occurs on the job.** Look for a job that uses the skills you want to develop, and look for a company that’s great at the skill you want to develop. What to become a good manager? Work at a place with great managers. Want to be a great investor? Work at a place with great investors. Want to become a great software engineer? Etc…
-- Life is short, and we spend most of it at work.
-- You become like the people you associate with most closely. Many of these people are coworkers. Choose those people carefully.
-- Prioritize working with good people.
-- Don’t work for jerks. Don’t work with jerks. Don’t hire jerks. (But remember, [people are not their behavior](/principles/people-are-not-their-behaviors). Do I need to refine this principle? Since this is a draft, I consider a “jerk” someone who repeatedly and consistently demonstrates a pattern of jerk-like behavior and disregard for others.)
-- If you are a high achiever, seek to work in a place that values accountability.
-
-## On Learning
-
-> “When you’re memorizing something, it’s an indication that you don’t understand it. You should be able to re-derive anything on the spot and if you can’t, you don’t know it.” - Naval Ravikant
-
-> **“Your resume is just a catalog of all your suffering.”** Nothing worthwhile in life comes without pain and suffering of some level
-
-## On Reading
-
-TODO: Move reading-related quotes to the Book Summaries intro:
-
-> “My policy [is] reading every annual report in sight that can further my knowledge _about anything._” -Warren Buffett
-
-> “I read and read and read. I probably read _5 to 6 hours per day_. I read five _daily newspapers_, I read a fair number of _magazines_, I read _10k’s_, I read _annual reports_, and I read a lot of other things too. I’ve always enjoyed reading. I love reading biographies for example.” – [Warren Buffett](http://mastersinvest.com/reading-quotes)
-
-**Past action is the best predictor of future behavior.**
-
-## On Happiness
-
-- “Desire is a contract that you make with yourself to be unhappy until you get what you want” - Naval Ravikant
 
 ## On Delegating
 
@@ -172,6 +143,14 @@ TODO: Move reading-related quotes to the Book Summaries intro:
 > “All successful people have some combination of three traits: being naive enough to walk into a hard thing without realizing how hard it is (or else they would never try), being conscientious enough to not quit when they realize just how hard it is, and the intelligence to eventually figure it out in time.” - Engineering Director at Google
 
 > “It’s the strong swimmers who drown.”
+
+## On Reading
+
+TODO: Move reading-related quotes to the Book Summaries intro:
+
+> “My policy [is] reading every annual report in sight that can further my knowledge _about anything._” -Warren Buffett
+
+> “I read and read and read. I probably read _5 to 6 hours per day_. I read five _daily newspapers_, I read a fair number of _magazines_, I read _10k’s_, I read _annual reports_, and I read a lot of other things too. I’ve always enjoyed reading. I love reading biographies for example.” – [Warren Buffett](http://mastersinvest.com/reading-quotes)
 
 ## Other Uncategorized Thoughts
 
