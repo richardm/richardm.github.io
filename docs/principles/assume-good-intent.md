@@ -7,7 +7,7 @@ parent: Leadership Principles
 
 # Assume Good Intent
 
-> "We judge ourselves by our intentions, but we judge others by their actions." [Source](https://quoteinvestigator.com/2015/03/19/judge-others)
+> "We judge ourselves by our intentions, but we judge others by their actions." [Source](https://quoteinvestigator.com/2015/03/19/judge-others){:target="\_blank"}
 
 **Assume positive intent**
 
@@ -17,6 +17,4 @@ parent: Leadership Principles
 >
 > A “steel” position should be against the absolute most effective version of your opponent’s position — potentially even more compelling than the one they presented. A good “steel” position is one where the other person feels you’ve represented their position well, even if they still disagree with your assumptions or conclusion.
 >
-> Source: [GitLab Values: Assume positive intent](https://handbook.gitlab.com/handbook/values/#assume-positive-intent)
-
-If you can strengthen someone’s own argument before dismantling it, it has a compelling effect.
+> Source: [GitLab Values: Assume positive intent](https://handbook.gitlab.com/handbook/values/#assume-positive-intent){:target="\_blank"}

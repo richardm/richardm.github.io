@@ -15,6 +15,8 @@ parent: Leadership Principles
 
 > A good idea executed poorly is better than a bad idea executed perfectly.
 
+> “Workaholics don’t actually accomplish more than nonworkaholics. They may claim to be perfectionists, but that just mean they’re wasting time fixating on inconsequential details instead of moving on to the next task.” - Jason Fried
+
 Just publish what you have. Publish drafts. Publish it unorganized. You can spend forever organizing and editing. Get your ideas out there early and iterate. Done is better than perfect.
 
 > Note: This is not a universal rule--some things do need to be perfect (or close)--but it’s an effective principle to break through when you’re stuck.

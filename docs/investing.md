@@ -60,7 +60,7 @@ permalink: /investing/
 
 > **“The best thing I did was to choose the right heroes.”** - Warren Buffett
 
-> “The chains of habit are too light to be felt until they are too heavy to be broken.” - [Bertrand Russell and others](https://quoteinvestigator.com/2013/07/13/chains-of-habit/)
+> “The chains of habit are too light to be felt until they are too heavy to be broken.” - [Bertrand Russell and others](https://quoteinvestigator.com/2013/07/13/chains-of-habit/){:target="\_blank"}
 
 > “The most important investment you can make is in yourself.” - Warren Buffett
 

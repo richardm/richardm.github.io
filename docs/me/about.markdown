@@ -9,21 +9,17 @@ has_children: true
 
 _I make software engineers and organizations better._
 
-## Personal
+In 2002, I began my software engineering career as an intern at Electronic Clearing House (now Intuit). Over the following two decades, I worked as a backend engineer, a frontend engineer, and now as an engineering manager, where I lead culture and architecture for an organization of 70+ engineers.
 
-Married to Hannah. Ambivert. I enjoy travel, and my ideal lifestyle would be spending a few months at a time in different parts of the world. Favorite places to spend a few months one day are the French Riviera, Poland, Eastern Europe (Belgrade, Kyiv, Chisinau), Mexico City, Puerto Vallarta, Denver, and Miami. A minimalist who loves living in dense, walkable areas while being within a couple hours of nature.
+**Short-Term Goals:** Optimize for learning and continue developing my leadership and management strengths without losing technical skills. Acquire new technical skills along the way.
 
-## Career Goals
-
-Short-Mid Term Goals: Continue developing my strengths and learn the skills I’m missing to accomplish my long term goals. Specifically, learn how to lead and manage others effectively, how to motivate and inspire others, how to scale myself and demonstrate I can deliver results on a large scale. Fearful of losing technical skills.
-
-My long-term goal is to co-found my own technology company building a B2C SaaS product that scales to millions of users. I enjoy working in mid-sized teams of 50-200
+**Long-Term Goal:** Co-found my own software company building a B2C SaaS product and grow it to millions of active users. I enjoy working in mid-sized teams of 20-200.
 
 ## Professional Background
 
-As a software engineer and engineering manager with over 20 years of software engineering experience, I am comfortable wearing wearing either hat; however, I prefer not to wear both hats on the same team in order to coach and empower my team without micromanaging.
+As a software engineer and engineering manager with over 20 years of software engineering experience, I am comfortable wearing either hat; however, I prefer not to wear both hats on the same team in order to coach and empower my team without micromanaging.
 
-In my current role as Director of Software Engineering, I primarily help my department head support an organization of over 60 engineers. Over the past two decades, I've specialized--at various times--in backend development (PHP and Node.js), frontend development (Angular, React, Backbone.js, ExtJS, and TypeScript), web performance, and security.
+In my current role as Director of Software Engineering, I primarily help my department head support an organization of over 70 engineers. Over the past two decades, I've specialized--at various times--in backend development (PHP and Node.js), frontend development (Angular, React, Backbone.js, ExtJS, and TypeScript), web performance, and security.
 
 In recent years, I’ve transitioned from actively leading software development and architecture as Lead Software Engineer, to managing software development teams and guiding our transition to microservices, to investing in people and developing engineering leaders.
 

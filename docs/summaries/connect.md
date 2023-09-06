@@ -5,11 +5,11 @@ permalink: /summaries/connect
 parent: Summaries
 ---
 
-# Summary: Connect, by David Bradford & Carole Robin
+# Connect
 
-[Connect, by David Bradford & Carole Robin](https://www.youtube.com/watch?v=5RgQL31qLuQ){:target="\_blank"}
+_[David L. Brandford](https://www.gsb.stanford.edu/faculty-research/faculty/david-l-bradford){:target="\_blank"} & [Carole Robin](https://www.linkedin.com/in/carole-robin/){:target="\_blank"} wrote [Connect](https://connectandrelate.com/){:target="\_blank"} based on the material they taught in a Stanford MBA elective called Interpersonal Dynamics_
 
-The field is called: Interpersonal Dynamics or Interpersonal Communication
+Watch [Connect](https://www.youtube.com/watch?v=5RgQL31qLuQ){:target="\_blank"} on YouTube.
 
 Relationships exist on a spectrum:
 
@@ -20,7 +20,7 @@ Relationships exist on a spectrum:
 
 Outcome:
 
-- **Be thyself.** We think we have to hide parts of ourselves to be more influential. It’s actually the opposite. In an exceptional relationship, you feel free to be yourself. Less need to spin your image. More freedom for others to really know you. It should be incredibly freeing, and the other person feels free to be themselves too. But there’s balance: Maybe I don’t want to know all the details of your issues at this stage of our relationship.
+- Be thyself. We think we have to hide parts of ourselves to be more influential. It’s actually the opposite. In an exceptional relationship, you feel free to be yourself. Less need to spin your image. More freedom for others to really know you. It should be incredibly freeing, and the other person feels free to be themselves too. But there’s balance: Maybe I don’t want to know all the details of your issues at this stage of our relationship.
 - You’re both willing to be vulnerable. It’s a strength, not a weakness
 - Reciprocal trust. Trust that what you disclose won’t be used against you
 - Honesty. Even if it’s difficult to tell the other person some things. It can both build and destroy relationships.
@@ -157,6 +157,4 @@ You have to start by seeing things from your boss’s viewpoint
 
 Additional resources:
 
-> David wrote a book about managing up for helping your boss. Influencing Up.
->
-> https://www.gsb.stanford.edu/faculty-research/faculty/david-l-bradford
+> [David L. Brandford](https://www.gsb.stanford.edu/faculty-research/faculty/david-l-bradford){:target="\_blank"} wrote another book about managing up for helping your boss: Influencing Up
