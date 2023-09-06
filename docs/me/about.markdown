@@ -9,7 +9,9 @@ has_children: true
 
 _I make software engineers and organizations better._
 
-<img src="/images/richard-morgan-medium.jpeg" alt="photo" width="200" align="left" style="margin-right: 20px;" />
+<!-- ![Richard Morgan](/images/richard-morgan-medium.jpeg){: .mr-1 .d-inline } -->
+
+<img src="/images/richard-morgan-medium.jpeg" alt="Richard Morgan" width="200" align="left" style="margin-right: 20px;" />
 
 I currently live in Miami, FL, with my wife Hannah. While we are from North Texas, we both love to travel. I have been to nearly 50 countries, and she is catching up at 20.
 

@@ -21,19 +21,18 @@
 title: Richard Morgan
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Richard Morgan's Software Engineering Handbook.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "richardmorgan.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: richardmorgantx
 github_username: richardm
 
 # Build settings
-#theme: just-the-docs
+# theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -56,3 +55,10 @@ plugins:
 
 ## Theme specific settings for just the docs theme
 heading_anchors: true
+
+footer_content: "Copyright &copy; 2023 Richard Morgan."
+
+# Google Analytics Tracking
+# Supports a CSV of tracking ID strings (eg. "UA-1234567-89,G-1AB234CDE5")
+ga_tracking: G-JF43FMRRL2
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
