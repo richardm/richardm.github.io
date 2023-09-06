@@ -19,4 +19,4 @@ Most ideas are derivative, including these. Share them freely. Principles should
 
 > **Work In Progress**: Please note this is a rough draft. Expect changes and check back often for additional content! As a perfectionist, I would prefer to keep it private until perfect, but [done is better than perfect](/principles/done-is-better-than-perfect).
 
-![commits](https://badgen.net/github/commits/richardm/richardm.github.io/main) ![last commit](https://badgen.net/github/last-commit/richardm/richardm.github.io/main)
+![commits](https://badgen.net/github/commits/richardm/richardm.github.io/main?cache=300) ![last commit](https://badgen.net/github/last-commit/richardm/richardm.github.io/main?cache=300)
