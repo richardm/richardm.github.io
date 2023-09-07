@@ -114,6 +114,21 @@ has_children: true
 
 > “When you have great relationships, any process works. When you don’t, no process works.” - Will Larson (See: Individuals and interactions over processes and tools.)
 
+## Decision Making
+
+- **Don’t push information up to those with the authority; push authority down to those with the information.**
+- [Your role as the leader is to encourage your people to think for themselves — not to enact a set of rules for them.](https://hbr.org/2023/03/5-strategies-to-empower-employees-to-make-decisions){:target="\_blank"}
+- **Decisions we make today tend to stick around and impact us for quite a long time.** People tend to continue doing what they’re doing simply because they’re doing it, and it takes a lot of force to change the way people do things.
+- When there are no good options, choose the least bad option.
+- In groups, make it clear who gets to make the decision. It can be the manager, or it can be delegated to someone on the team.
+- People reason with their minds but make decisions with their gut. Learn to trust your gut by making decisions with it and learning from them. Next time you’re faced with the same question, you’ll know whether you can trust it again and what you learned from the last time. It's ok to make bad decisions as long as you learn from them. Ideally, you want to make them when the stakes are low.
+- Recognize that even if you are "in charge," you may not be the person who is best equipped to make the decision.
+- Don't overlook the cost of indecision. Sometimes failing to act is acting, and failing to decide is deciding.
+- Analysis paralysis is an obsession with making the best decision. Recognize that you cannot go through life only making optimal decisions, and you’ll burn yourself out if you try.
+- Action creates clarity. Rather than trying to see 10 steps ahead, focus on taking step one and then looking for step two.
+- If you go to the effort to make a decision, be sure to write it down.
+- People are indecisive because they’re scared of making a mistake.
+
 ## Diversity & Inclusion
 
 > "If you're under-represented, getting promoted is diversity work. Being visibly successful is the most powerful diversity work she can do. She can be the representation someone needs. She can be in a much better position for mentorship and sponsorship." - Tanya Reilly
@@ -130,7 +145,6 @@ has_children: true
 
 ## On Delegating
 
-- **Don’t push information up to those with the authority; push authority down to those with the information.**
 - **Delegate as much as possible** within the constraints of meeting your deliverables.
 - **Doing what you’re best at hurts the team.** Teach them how to do it. (See: [Leadership is not doing](/principles/leadership-is-not-doing))
 - **Hire the best people possible and get out of their way.**
@@ -168,6 +182,12 @@ TODO: Move reading-related quotes to the Book Summaries intro:
 > “My policy [is] reading every annual report in sight that can further my knowledge _about anything._” -Warren Buffett
 
 > “I read and read and read. I probably read _5 to 6 hours per day_. I read five _daily newspapers_, I read a fair number of _magazines_, I read _10k’s_, I read _annual reports_, and I read a lot of other things too. I’ve always enjoyed reading. I love reading biographies for example.” – [Warren Buffett](http://mastersinvest.com/reading-quotes){:target="\_blank"}
+
+## Making Decisions
+
+- **Always sleep on it before making a large decision.** Emotions can be manipulated. Don’t let yourself get carried away. If it’s the right decision, it will still be the right decision tomorrow. You may be less excited, but you’ll be more sure.
+- Ask yourself: "Is the Best Case scenario worth risking the worst case scenario?"
+-
 
 ## Other Uncategorized Thoughts
 

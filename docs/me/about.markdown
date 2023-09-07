@@ -13,7 +13,7 @@ _I make software engineers and organizations better._
 
 <img src="/images/richard-morgan-medium.jpeg" alt="Richard Morgan" width="200" align="left" style="margin-right: 20px;" />
 
-I currently live in Miami, FL, with my wife Hannah. While we are from North Texas, we both love to travel. I have been to nearly 50 countries, and she is catching up at 20.
+I currently live in Miami, FL, with my wife Hannah. While we are from North Texas, we both love to travel. I have been to nearly 50 countries, and she is catching up at 20!
 
 In 2002, I began my software engineering career as an intern at Electronic Clearing House (now Intuit). Over the following two decades, I worked as a backend engineer, a frontend engineer, and now as an engineering manager, where I lead culture and architecture for an organization of 70+ engineers.
 

@@ -52,6 +52,9 @@ has_children: true
 
 ## On Learning
 
+- **If you can optimize for one thing, optimize for learning. It doesn’t matter how wrong you are today as long as you continually learn.**
+- You can't prove something is true. You can only fail in your attempt to prove it's false. So document your principles and theories and beliefs and apply the scientific method and invite others to try to disprove them. The ones that withstand the most scrutiny are the ones you should trust most.
+
 > “If you’re not failing, you’re not pushing your limits, and if you’re not pushing your limits, you’re not maximizing your potential.” - Ray Dalio
 
 > “When you’re memorizing something, it’s an indication that you don’t understand it. You should be able to re-derive anything on the spot and if you can’t, you don’t know it.” - Naval Ravikant
