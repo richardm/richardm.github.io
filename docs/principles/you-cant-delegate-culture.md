@@ -6,3 +6,5 @@ parent: Leadership Principles
 ---
 
 # You can't delegate culture
+
+> "The standard you ignore is the standard you accept." - David Morrison (paraphrased)

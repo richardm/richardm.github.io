@@ -9,43 +9,27 @@ has_children: true
 
 > Never doubt the capacity of the people you lead to accomplish whatever you dream for them. Martin Luther King, Jr. didn’t say, "I have a dream, and I hope you’ll be up for it." - Benjamin Zander
 
-> “As leaders, we’re giving out grades in every encounter we have with people. We can choose to give out grades as an _expectation to live up to_... or we can offer grades as a _possibility to live into_. The second approach is much more powerful.” - Benjamin Zander
+- [**Leadership is communication**](/principles/leadership-is-communication)
+- [**Leadership is not doing the work; leadership is supporting the people who do the work**](/principles/leadership-is-not-doing)
+- [**Surround yourself with smart people who disagree with you**](/principles/smart-people-who-disagree)
+- [**Never punish honesty**](/principles/never-punish-honesty)
 
 ## Principles for Operating an Effective Engineering Team
 
-- [**Slow is smooth, and smooth is fast.**](/principles/slow-is-smooth-and-smooth-is-fast) Unless it's a matter of life or death, take the time to invest in your CI/CD and test automation.
-- **Hold people accountable.** It’s not kind to your top performers to fail to reward them while failing to discipline your bottom performers. See: [Be kind, not nice.](/principles/be-kind-not-nice)
+- [**Slow is smooth, and smooth is fast**](/principles/slow-is-smooth-and-smooth-is-fast)
 - [**Create a meritocracy**](/principles/meritocracy)
-- **High performers love accountability.** They want to be recognized and rewarded for their efforts, and they want to be continually improving. The best way to hire and retain the best people is to hold everyone accountable. A sure-fire way to lose your top performers to disengagement or attrition is to fail to hold everyone accountable.
 
 ## Principles for Managing People Effectively
 
-- **Be the boss you wish you had.**
-- **“Doing what you’re good at hurts the team.”** - Peldi Guilizzoni via [The most counterintuitive leadership tip? Leaders, stop doing what you're good at.](https://knowyourteam.com/blog/2018/12/18/the-most-counterintuitive-leadership-tip-leaders-stop-doing-what-youre-good-at/){:target="\_blank"}
-  > "Don't take learning opportunities away from other people." - Tanya Reilly. Put under (Doing What you're best at hurts the team)
-- **[Leadership is not doing the work; leadership is supporting the people who do the work.](/principles/leadership-is-not-doing)**
-- [Surround yourself with smart people who disagree with you.](/principles/smart-people-who-disagree) - Move this under leadership?
-- [**Trust is your most important asset.**](/principles/earn-trust) It can only be earned, and it can be lost quickly. Earn it before you need it.
-  **Focus on maximizing employee engagement.** Recognize that quitting is just an extreme form of disengagement. Focus on improving engagement.
-- **Recognize that disengagement is the same as attrition;** it differs only in intensity.
-- **Never sacrifice your integrity.** People will quickly forget what you accomplished, but they won’t forget how you behaved.
-- [**Be kind, not nice.**](/principles/be-kind-not-nice) Ruinous empathy is nice but it’s not kind. It’s not kind to the person to withhold the constructive criticism they need most. It’s also not kind to deliver it poorly.
-- Few things destroy morale faster than failing to recognize your top achievers.
+- **Be the boss you wish you had**
+- [**Earn trust proactively**](/principles/earn-trust)
+- [**Hold people accountable**](/principles/hold-people-accountable)
+- [**Maximize employee engagement**](/principles/maximize-employee-engagement)
+- **Never sacrifice your integrity** People will quickly forget what you accomplished, but they won’t forget how you behaved.
+- [**Be kind, not nice.**](/principles/be-kind-not-nice)
 - **Become comfortable with conflict.** Especially if you're naturally an agreeable person.
+- [**Don't point fingers**](/principles/dont-point-fingers)
 - **Everyone’s behavior makes sense to them.**
-- **A company is _always_ designed to produce the results it produces.** e.g. If there are lots of bugs, the behaviors that lead to that are being reinforced. ([Bringing Out the Best in People](/summaries/bringing-out-the-best-in-people))
-
-> "Managers are responsible for identifying the behaviors that lead to good and bad results and arranging for the consequences that are necessary and sufficient to accomplish the company’s objectives." - Aubrey Daniels ([Bringing Out the Best in People](/summaries/bringing-out-the-best-in-people))
-
-> "The role of leaders in every organization is not to find fault or place blame but to analyze why people are behaving as they are and modify the consequences to promote the behavior they need." - Aubrey Daniels ([Bringing Out the Best in People](/summaries/bringing-out-the-best-in-people))
-
-> "As the manager, it's your role to ensure that all the interpersonal dynamics at play within your sphere of influence are healthy and productive." - John Barton
-
-- **Never punish honesty.**
-
-> "Finding fault with people for their behavior is unproductive and unfair. They are simply behaving in a manner consistent with the consequences they’re receiving now and have received in the past." - Aubrey Daniels ([Bringing Out the Best in People](/summaries/bringing-out-the-best-in-people))
-
-> "The role of leaders in every organization is not to find fault or place blame but to analyze why people are behaving as they are and modify the consequences to promote the behavior they need." - Aubrey Daniels ([Bringing Out the Best in People](/summaries/bringing-out-the-best-in-people))
 
 ## Principles for Hiring Engineers
 
@@ -55,7 +39,7 @@ has_children: true
 - Hire people who are **Hungry, Humble, and Emotionally Intelligent** (See: The Ideal Team Player)
 - **Hire for strengths, not for lack of weaknesses.** (See: Gallup CliftonStrengths [How to create a strengths-based company culture](https://www.gallup.com/cliftonstrengths/en/290903/how-to-create-strengths-based-company-culture.aspx){:target="\_blank"})
 - **Hire people who put the team's success above their individual success.**
-- **Practice disconfirmation.** Whether you want to hire someone or pass, look for evidence that you're wrong.
+- [**Practice disconfirmation.**](/principles/practice-disconfirmation) Whether you want to hire someone or pass, look for evidence that you're wrong.
 - **Only hire people who bring up the average for their role and level.**
 - **Hire for skills that are not easily taught.** If someone has demonstrated they can master one programming framework, it is likely they can master another. Unless you truly need an expert in that framework, it should not be a reason to disqualify them.
 - **Past behavior is the best predictor of future behavior.**
@@ -79,24 +63,20 @@ has_children: true
 
 ## Principles for Getting Things Done
 
-- [**Done is better than perfect.**](/principles/done-is-better-than-perfect) "Perfectionists sacrifice the progress that matters most for improvement at the margin." -- Unknown
-- **“As a leader, your job is to flip the highest order bit.”** —Unknown
-- “Doing the correct thing poorly is worth more than executing the wrong things perfectly.” -Unknown. (From [David Fallarme on LinkedIn](https://www.linkedin.com/posts/dfallarme_it-was-the-weirdest-thing-my-ceo-ever-told-activity-7039610791863427075-PqP5/){:target="\_blank"})
-- **Discipline beats motivation.** You can’t rely on motivation; discipline will transform your dreams into reality.
-- **Eat the Frog.** Prioritize your must-dos above all of your like-to-dos
-- **Weigh the value of additional information against the cost of delaying**
-- ~~**Good execution matters more than good ideas.**~~ _Note: This is inconsistent with "Done is better than perfect", and I think this version is wrong. A good idea executed poorly is better than a bad idea executed perfectly. What I meant to say here is that without execution, a good idea has little utility._
+> **“As a leader, your job is to flip the highest order bit.”** —Unknown
 
 > "A goal without without an active project is a dream." - Tiago Forte
 
 > "A project without a goal is a hobby." - Tiago Forte
 
+- [**Done is better than perfect.**](/principles/done-is-better-than-perfect)
+- **Discipline beats motivation.** You can’t rely on motivation; discipline will transform your dreams into reality.
+- **Eat the Frog.** Prioritize your must-dos above all of your like-to-dos
+- ~~**Good execution matters more than good ideas.**~~ _Note: This is inconsistent with "Done is better than perfect", and I think this version is wrong. A good idea executed poorly is better than a bad idea executed perfectly. What I meant to say here is that without execution, a good idea has little utility._
+
 ## Culture
 
-- [You can’t delegate culture](/principles/you-cant-delegate-culture)
-
-> "The standard you ignore is the standard you accept." - David Morrison (paraphrased)
-
+- [**You can’t delegate culture**](/principles/you-cant-delegate-culture)
 - Generally, praise in public and criticize in private.
 - **Criticize egregious behavior in public.** Being seen to tolerate bad behavior can give the impression that behavior is ok.
 
@@ -110,6 +90,8 @@ has_children: true
 
 ## People & Relationships
 
+> “As leaders, we’re giving out grades in every encounter we have with people. We can choose to give out grades as an _expectation to live up to_... or we can offer grades as a _possibility to live into_. The second approach is much more powerful.” - Benjamin Zander
+
 - **Everyone’s behavior makes sense to them.** See: [Bringing Out the Best in People](/summaries/bringing-out-the-best-in-people)
 
 > “When you have great relationships, any process works. When you don’t, no process works.” - Will Larson (See: Individuals and interactions over processes and tools.)
@@ -119,6 +101,7 @@ has_children: true
 - **Don’t push information up to those with the authority; push authority down to those with the information.**
 - [Your role as the leader is to encourage your people to think for themselves — not to enact a set of rules for them.](https://hbr.org/2023/03/5-strategies-to-empower-employees-to-make-decisions){:target="\_blank"}
 - **Decisions we make today tend to stick around and impact us for quite a long time.** People tend to continue doing what they’re doing simply because they’re doing it, and it takes a lot of force to change the way people do things.
+- **Weigh the value of additional information against the cost of delaying**
 - When there are no good options, choose the least bad option.
 - In groups, make it clear who gets to make the decision. It can be the manager, or it can be delegated to someone on the team.
 - People reason with their minds but make decisions with their gut. Learn to trust your gut by making decisions with it and learning from them. Next time you’re faced with the same question, you’ll know whether you can trust it again and what you learned from the last time. It's ok to make bad decisions as long as you learn from them. Ideally, you want to make them when the stakes are low.
@@ -187,7 +170,6 @@ TODO: Move reading-related quotes to the Book Summaries intro:
 
 - **Always sleep on it before making a large decision.** Emotions can be manipulated. Don’t let yourself get carried away. If it’s the right decision, it will still be the right decision tomorrow. You may be less excited, but you’ll be more sure.
 - Ask yourself: "Is the Best Case scenario worth risking the worst case scenario?"
--
 
 ## Other Uncategorized Thoughts
 
@@ -199,12 +181,10 @@ TODO: Move reading-related quotes to the Book Summaries intro:
 
 > "The purpose of negotiation is not always to reach agreement... The purpose of negotiation is to explore whether you can satisfy your interests better through an agreement than you could by pursuing your Best Alternative to a Negotiated Agreement (BATNA). Your BATNA is your walkaway alternative. It’s your best course of action for satisfying your interests without the other’s agreement." - William Ury (?)
 
-- Create orgs that mimic the architecture you want the machine to exhibit. - James Lewis (Thoughtworks): Inverse Conway Maneuver
-
 > "The vast majority of our learning happens on the job." - Tanya Reilly
 > "Virtuous cycles" -- this is the word I was looking for with the correlation stuff.
 
-- Principle: You only get better when you invest effort.
+- You only get better when you invest effort.
 
   > "I'm good at everything I put effort into." - Polina Giralt.
 

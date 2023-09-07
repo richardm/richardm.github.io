@@ -13,6 +13,10 @@ permalink: /laws-and-principles/
 - [Conway’s Law: the little-known principle that influences your work more than you think
   ](https://www.atlassian.com/blog/teamwork/what-is-conways-law-acmi){:target="\_blank"}
 
+**The Inverse Conway Maneuver:**
+
+> "Create orgs that mimic the architecture you want the machine to exhibit." - James Lewis (Thoughtworks)
+
 ## Peter Principle
 
 People in hierarchies tend to be promoted to their level of incompetence.

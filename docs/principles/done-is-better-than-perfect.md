@@ -11,7 +11,7 @@ parent: Leadership Principles
 
 > **_If you wait to ship until something is perfect, you’ve waited too long._** --Unknown
 
-> “Doing the correct thing poorly is worth more than executing the wrong things perfectly.” -Unknown (via David Fallarme on LinkedIn)
+> “Doing the correct thing poorly is worth more than executing the wrong things perfectly.” -Unknown (via [David Fallarme on LinkedIn](https://www.linkedin.com/posts/dfallarme_it-was-the-weirdest-thing-my-ceo-ever-told-activity-7039610791863427075-PqP5/){:target="\_blank"})
 
 > A good idea executed poorly is better than a bad idea executed perfectly.
 
