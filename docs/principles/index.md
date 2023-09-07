@@ -192,6 +192,7 @@ TODO: Move reading-related quotes to the Book Summaries intro:
   - and attempt to reverse engineer it. If your gut says not to make a hire, try to figure out why. You may make a few mistakes learning to trust your gut, but it’s important to develop this ability. -> Learn when to trust your gut and when not to trust your gut (aka instinct, intuition).
 - Develop a curiosity about your intuitions. Your intuitions are based in your experiences. Learn to reduce them to writing (as principles) so you can test and refine them. Formalize your thinking and share it to give others the benefit of your insights.
 
+<!--
 ## Other Principles
 
 TODO: Move these under the appropriate principles above rather than as a separate section.
@@ -271,3 +272,4 @@ I wholeheartedly agree with this. While part of a manager’s job is to change b
 
 > Investigate mistakes in a way that focuses on the situational aspects of a failure’s mechanism and the decision-making process that led to the failure, rather than cast blame on a person or team. We hold blameless [root cause analyses](https://codeascraft.com/2012/05/22/blameless-postmortems/){:target="\_blank"} and [retrospectives](https://handbook.gitlab.com/handbook/engineering/management/group-retrospectives/){:target="\_blank"} for stakeholders to speak up without fear of punishment or retribution.
 > [GitLab Values: Blameless Problem Solving](https://handbook.gitlab.com/handbook/values/#blameless-problem-solving){:target="\_blank"}
+-->

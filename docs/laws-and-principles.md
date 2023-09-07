@@ -1,3 +1,9 @@
+---
+layout: page
+title: Laws & Principles
+permalink: /laws-and-principles/
+---
+
 # Laws & Principles
 
 ## Conway’s Law
