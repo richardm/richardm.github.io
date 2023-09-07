@@ -7,7 +7,7 @@ parent: About Richard
 
 # Work with Me
 
-_I make engineers and engineering organizations better._
+_I make software engineers and organizations better._
 
 ## I Excel:
 
