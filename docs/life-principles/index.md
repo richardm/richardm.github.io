@@ -58,6 +58,14 @@ has_children: true
 
 > **“Your resume is just a catalog of all your suffering.”** Nothing worthwhile in life comes without pain and suffering of some level
 
+## On Money
+
+> “**You want to be rich and anonymous, not poor and famous.**” - Naval Ravikant
+
+> “I don’t care how rich you are. I don’t care whether you’re a top Wall Street banker, if somebody has to tell you when to be at work, what to wear and how to behave, you’re not a free person. You’re not actually rich.” - Naval Ravikant
+
+> “**There are two great addictions: heroin and a monthly salary.**” - Nassim Taleb
+
 ## On Happiness
 
 > "Success is getting what you want. Happiness is wanting what you get." - Dale Carnegie

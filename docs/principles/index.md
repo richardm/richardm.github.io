@@ -103,7 +103,7 @@ has_children: true
 ## Compensation
 
 - Create a meritocracy.
-- Pay people at the top of their personal market (the Netflix approach). See [Create a meritocracy](/principles/meritocracy)
+- Pay people at the top of their personal market (the [Netflix](https://jobs.netflix.com/culture){:target="\_blank"} approach). See [Create a meritocracy](/principles/meritocracy)
 - Pay people not addresses.
 - Pay people for the value they provide, not their cost of living or the cost of labor in their market
 - Don't stack rank your people if you want them to truly put their teammates first. See [Align incentives](/principles/align-incentives).

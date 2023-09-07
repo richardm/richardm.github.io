@@ -6,13 +6,7 @@ permalink: /investing/
 
 # Investing Quotes & Principles
 
-## On Money
-
-> “**You want to be rich and anonymous, not poor and famous.**” - Naval Ravikant
-
-> “I don’t care how rich you are. I don’t care whether you’re a top Wall Street banker, if somebody has to tell you when to be at work, what to wear and how to behave, you’re not a free person. You’re not actually rich.” - Naval Ravikant
-
-> “**There are two great addictions: heroin and a monthly salary.**” - Nassim Taleb
+> “Understanding how to be a good investor makes you a better business manager and vice versa... If you do not understand the actual business of the company, you cannot understand the value of assets related to that business.” - Charlie Munger
 
 ## On Investing
 
@@ -69,10 +63,6 @@ permalink: /investing/
 > “**Read 500 pages like this every day.** That’s how knowledge works. It builds up, like compound interest. **All of you can do it, but I guarantee not many of you will do it.**” -- Warren Buffett
 
 > “It’s remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid instead of trying to be very intelligent.” - Charlie Munger
-
-> “Understanding how to be a good investor makes you a better business manager and vice versa… If you do not understand the actual business of the company, you cannot understand the value of assets related to that business.” - Charlie Munger
-
-> “Understanding how to be a good investor makes you a better business manager and vice versa.” - Charlie Munger
 
 > “If you are an investor, you are trying to understand the value of the asset. By contrast, a speculator is trying to guess the price of the asset by predicting the behavior of others in the future… When speculators spend their time trying to guess what other speculators are trying to guess, the process quickly becomes both circular and absurd.” - Charlie Munger
 
