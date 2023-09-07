@@ -14,6 +14,8 @@ has_children: true
 
 > “I have known no wise people who didn’t read all the time. None. Zero. You’d be surprised how much Warren reads, at how much I read.” - Charlie Munger
 
+> “The man who does not read has no advantage over a man who cannot read” – Mark Twain
+
 > “Show me a family of readers, and I will show you the people who move the world.” - Napoleon Bonaparte
 
 > “There is more treasure in books than in all the pirate’s loot on Treasure Island.” - Walt Disney
@@ -43,7 +45,7 @@ No summaries in this section. Just links to articles I recommend:
 
 I have over 200 books on my to-read list. As a result, I generally start by reading book summaries and then read the full book if I find the summary useful. I am a slow reader because I generally take the time to capture notes for each chapter as I read. My goal is to never have to read the same book twice; however, I read some of my book notes dozens of times. By sharing my summaries below, I hope these will introduce you to useful concepts and encourage you to read the full book.
 
-Here is an incomplete list of the books I've read in recent years. I have extensive book notes for _most_ of these, although they need cleanup before sharing. Over time, I plan to share my book notes here as a resource for others. If you would like me to escalate a particular book, please open a [GitHub issue](https://github.com/richardm/richardm.github.io/issues){:target="\_blank"}.
+Here is an incomplete list of the books I've read in recent years. While I haven't finished them all, I have extensive book notes for _most_ of these, although they need cleanup before sharing. Over time, I plan to share my book notes here as a resource for others. If you would like me to escalate a particular book, please open a [GitHub issue](https://github.com/richardm/richardm.github.io/issues){:target="\_blank"}.
 
 1. [Bringing Out the Best in People](/summaries/bringing-out-the-best-in-people) by Aubrey C. Daniels
 2. Changing World Order by Ray Dalio

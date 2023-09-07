@@ -5,7 +5,7 @@ permalink: /summaries/bringing-out-the-best-in-people
 parent: Summaries
 ---
 
-# Summary: Bringing out the best in people: How to apply the astonishing power of positive reinforcement
+# Bringing out the best in people: How to apply the astonishing power of positive reinforcement
 
 _This is one of the first books I read on management, and it introduced me to concepts I still find highly relevant. In fact, I quote and reference it in many of my principles. This summary introduces many of the key concepts, but it is hardly comprehensive, and I do not have notes (much less the corresponding graphs and charts) for all chapters. I highly recommend that new managers and others in leadership roles [buy the full book](https://www.amazon.com/Bringing-Out-Best-People-Reinforcement/dp/1259644901/){:target="\_blank"}._
 

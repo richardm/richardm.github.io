@@ -38,8 +38,7 @@ has_children: true
 
 > “Look for people who have lots of great questions. Smart people are the ones who ask the most thoughtful questions, as opposed to thinking they have all the answers. Great questions are a much better indicator of future success than great answers.” - Ray Dalio
 
-- Hire people who demonstrate initiative and eagerness to learn.
-- Hire people who are **Hungry, Humble, and Emotionally Intelligent** (See: The Ideal Team Player)
+- Hire people who are [**Hungry, Humble, and Emotionally Intelligent**](/summaries/ideal-team-player)
 - **Hire for strengths, not for lack of weaknesses.** (See: Gallup CliftonStrengths [How to create a strengths-based company culture](https://www.gallup.com/cliftonstrengths/en/290903/how-to-create-strengths-based-company-culture.aspx){:target="\_blank"})
 - **Hire people who put the team's success above their individual success.**
 - [**Practice disconfirmation.**](/principles/practice-disconfirmation) Whether you want to hire someone or pass, look for evidence that you're wrong.

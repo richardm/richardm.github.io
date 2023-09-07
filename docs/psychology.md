@@ -6,6 +6,27 @@ permalink: /psychology/
 
 # Psychology Quotes & Principles
 
+## Common Biases
+
+- **Anchoring bias** — When we hear a number, we get attached to it
+- **Belief persistence** - Not reconsidering faulty beliefs
+- **Confirmation bias** - We tend to notice and agree with data the supports our opinions, while we tend to disregard data that challenges it. If you believe there are a lot of red cars on the road today, you're more likely to notice the red cars you see.
+- **Egocentrism** - When our group obtains a result, we attribute more credit or blame to ourselves than an outsider would.
+- **Hindsight bias** - People think their forecasts were more accurate than they are. To combat this, record your predictions in advance and review them after the fact to see if they were accurate and what could be learned from the actual outcome
+- **Illusory correlation**: We jump to conclusions about the relationship between two unrelated variables
+- **Primacy effect** - Believing the data that we see first
+- **Recency effect** — We think the future will be most similar to the most recent past
+- **Survivorship bias** - TODO
+
+**Combating biases**:
+
+- Become aware of then
+- Review whether we’re vulnerable to certain of these
+- Getting rapid feedback on decisions
+- Tap into unbiased experts
+
+Bad decisions are often not about a lack of intelligence. Could be cognitive biases
+
 ## Psychology Principles
 
 **To change your habits, change your environment.**

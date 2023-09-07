@@ -5,7 +5,7 @@ permalink: /summaries/executive-presence-art-of-commanding-respect
 parent: Summaries
 ---
 
-# Summary: Executive Presence: Art of Commanding Respect
+# Executive Presence: The Art of Commanding Respect
 
 ## Chapter 1
 
