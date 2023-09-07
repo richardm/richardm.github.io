@@ -95,15 +95,15 @@ Here is an incomplete list of the books I've read in recent years. While I haven
 46. Maps of Meaning
 47. Shmooze
 48. Charlie Munger: The Complete Investor
-49. Thinking Fast & Slow
-50. Managing the Unmanageable
-51. Executive Presence
+49. Thinking Fast & Slow by Daniel Kahneman
+50. Managing the Unmanageable by Mickey Mantle and Ron Lichty
+51. Executive Presence by Sylvia Ann Hewlett
 52. Start with Why by Simon Sinek
 53. The Lean Startup by Eric Ries
-54. The Power of Habit
+54. The Power of Habit by Charles Duhigg
 55. Crucial Accountability
-56. Ideal Team Player
-57. Drive
+56. [The Ideal Team Player](/summaries/ideal-team-player) by Patrick Lencioni
+57. Drive by Daniel H. Pink
 
 <!--
 - [[Charlie Munger’s Six Rules for a Happy Life]]
