@@ -13,11 +13,14 @@ has_children: true
 - [**Leadership is not doing the work; leadership is supporting the people who do the work**](/principles/leadership-is-not-doing)
 - [**Surround yourself with smart people who disagree with you**](/principles/smart-people-who-disagree)
 - [**Never punish honesty**](/principles/never-punish-honesty)
+- [**You can’t delegate culture**](/principles/you-cant-delegate-culture)
+- Not all leaders are managers, but all managers should be leaders
 
 ## Principles for Operating an Effective Engineering Team
 
 - [**Slow is smooth, and smooth is fast**](/principles/slow-is-smooth-and-smooth-is-fast)
 - [**Create a meritocracy**](/principles/meritocracy)
+- [**Deliver incrementally and iterate**](/principles/deliver-incrementally-and-iterate)
 
 ## Principles for Managing People Effectively
 
@@ -74,9 +77,12 @@ has_children: true
 - **Eat the Frog.** Prioritize your must-dos above all of your like-to-dos
 - ~~**Good execution matters more than good ideas.**~~ _Note: This is inconsistent with "Done is better than perfect", and I think this version is wrong. A good idea executed poorly is better than a bad idea executed perfectly. What I meant to say here is that without execution, a good idea has little utility._
 
+<!-- ## Building Products
+
+- [**Deliver incrementally and iterate**](/principles/deliver-incrementally-and-iterate) -->
+
 ## Culture
 
-- [**You can’t delegate culture**](/principles/you-cant-delegate-culture)
 - Generally, praise in public and criticize in private.
 - **Criticize egregious behavior in public.** Being seen to tolerate bad behavior can give the impression that behavior is ok.
 
@@ -118,27 +124,19 @@ has_children: true
 
 ## Principles for Writing
 
+> "The most important thing you can do with an idea: get it out of your head." - Jack Dorsey
+
 - **Writing forces you to clarify your thoughts.** Writing exposes the weaknesses in your arguments. If you can't articulate your ideas, you don't fully understand them.
 - **Effective teams document their core values, principles, and processes so they are widely understood and refined**
 - Share your ideas early, get feedback, and iterate. See [Just start](/principles/just-start).
 - Seek input from people who are smarter than you, dumber than you, and have different perspectives.
 - Ideas should be shared freely so they can be improved; execution is your competitive advantage.
 
-> "The most important thing you can do with an idea: get it out of your head." - Jack Dorsey
-
 ## On Delegating
 
 - **Delegate as much as possible** within the constraints of meeting your deliverables.
 - **Doing what you’re best at hurts the team.** Teach them how to do it. (See: [Leadership is not doing](/principles/leadership-is-not-doing))
 - **Hire the best people possible and get out of their way.**
-
-## On Communication
-
-- **Leadership is communication.** Communicate a vision. Communicate needs. Communicate challenges. Communicate principles. Communicate expectations.
-- The more important the information, the more it must be repeated. Say it different ways, in different contexts, and in different mediums.
-- Culture are the shared values that determine how we operate. Model those values consistently and demand no less from others in leadership.
-- It’s _usually_ better to communicate the key point inelegantly than to delay the message until you can polish it. But know when that’s not the case. (See: Done is better than perfect.)
-- Communicate what you’re going to do before you do it--with your boss so they are in the loop and can sign off, and with your team, so they can provide feedback.
 
 ## On Disagreement
 

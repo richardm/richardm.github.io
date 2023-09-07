@@ -17,7 +17,7 @@ I started writing down my principles in 2021 after reading [Principles by Ray Da
 
 Since these began as personal notes on my computer, I was not disciplined about noting sources as I captured ideas. Over time, I will try to identify and cite sources.
 
-Most of my thoughts here are related to [software development](/software-engineering-best-practices/), [leadership](principles/), [investing](/investing), and [psychology](/psychology).
+Most of my thoughts here are related to [software development](/software-engineering-best-practices/), [leadership](principles/), [investing](/investing), and [psychology](/psychology). I also have dozens of book summaries that I will be sharing as time allows.
 
 <!-- Most ideas are derivative, including these. Share them freely. Principles should be tested and refined. If you have feedback, disagreement, or suggestions, please open a [GitHub issue](https://github.com/richardm/richardm.github.io/issues){:target="\_blank"}. If you take the time to read this, I value your feedback and perspective. -->
 

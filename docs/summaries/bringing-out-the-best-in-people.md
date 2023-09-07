@@ -218,3 +218,5 @@ This is because everyone is reinforced in different ways. If we look deep enough
 **Finding fault with people for their behavior is unproductive and unfair. They are simply behaving in a manner consistent with the consequences they’re receiving now and have received in the past.**
 
 **The role of leaders in every organization is not to find fault or place blame but to analyze why people are behaving as they are and modify the consequences to promote the behavior they need.**
+
+## _Chapters 5 - 20 coming soon!_

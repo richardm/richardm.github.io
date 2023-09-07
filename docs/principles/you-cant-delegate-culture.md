@@ -8,3 +8,5 @@ parent: Leadership Principles
 # You can't delegate culture
 
 > "The standard you ignore is the standard you accept." - David Morrison (paraphrased)
+
+- Culture are the shared values that determine how we operate. Model those values consistently and demand no less from others in leadership.
