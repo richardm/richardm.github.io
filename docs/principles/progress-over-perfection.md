@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Done is better than perfect
-permalink: /principles/done-is-better-than-perfect
+permalink: /principles/progress-over-perfection
 parent: Leadership Principles
 ---
 
-# Done is Better than Perfect
+# Progress over perfection
 
 > **_Perfectionists sacrifice the progress that matters most for improvement at the margin._** --Unknown
 

@@ -3,12 +3,14 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Summaries
+title: Book Notes
 permalink: /summaries/
 has_children: true
 ---
 
-# Book, Article, and Podcast Summaries
+# Books, Articles, and Podcast Notes
+
+## Reading Quotes
 
 > “Not all readers are leaders, but all leaders are readers.” - President Harry Truman
 
@@ -41,9 +43,9 @@ No summaries in this section. Just links to articles I recommend:
 
 1. [Fun, Fear, Focus: Recipe for Peak Performance](/summaries/fun-fear-focus-recipe-for-peak-performance)
 
-## Book Summaries
+## Book Notes
 
-I have over 200 books on my to-read list. As a result, I generally start by reading book summaries and then read the full book if I find the summary useful. I am a slow reader because I generally take the time to capture notes for each chapter as I read. My goal is to never have to read the same book twice; however, I read some of my book notes dozens of times. By sharing my summaries below, I hope these will introduce you to useful concepts and encourage you to read the full book.
+I have over 200 books on my to-read list. As a result, I generally start by reading book summaries and then read the full book if I find the summary useful. I read slowly because I generally make notes as I read. My goal is to never have to read the same book twice; however, I read some of my book notes dozens of times. By sharing my notes below, I hope these will introduce you to useful concepts and encourage you to read the full book.
 
 Here is an incomplete list of the books I've read in recent years. While I haven't finished them all, I have extensive book notes for _most_ of these, although they need cleanup before sharing. Over time, I plan to share my book notes here as a resource for others. If you would like me to escalate a particular book, please open a [GitHub issue](https://github.com/richardm/richardm.github.io/issues){:target="\_blank"}.
 

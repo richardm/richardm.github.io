@@ -40,6 +40,7 @@ has_children: true
 
 - Hire people who are [**Hungry, Humble, and Emotionally Intelligent**](/summaries/ideal-team-player)
 - **Hire for strengths, not for lack of weaknesses.** (See: Gallup CliftonStrengths [How to create a strengths-based company culture](https://www.gallup.com/cliftonstrengths/en/290903/how-to-create-strengths-based-company-culture.aspx){:target="\_blank"})
+- Hire for behaviors, not just skills
 - **Hire people who put the team's success above their individual success.**
 - [**Practice disconfirmation.**](/principles/practice-disconfirmation) Whether you want to hire someone or pass, look for evidence that you're wrong.
 - **Only hire people who bring up the average for their role and level.**
@@ -71,7 +72,7 @@ has_children: true
 
 > "A project without a goal is a hobby." - Tiago Forte
 
-- [**Done is better than perfect.**](/principles/done-is-better-than-perfect)
+- [**Done is better than perfect.**](/principles/progress-over-perfection)
 - **Discipline beats motivation.** You can’t rely on motivation; discipline will transform your dreams into reality.
 - **Eat the Frog.** Prioritize your must-dos above all of your like-to-dos
 - ~~**Good execution matters more than good ideas.**~~ _Note: This is inconsistent with "Done is better than perfect", and I think this version is wrong. A good idea executed poorly is better than a bad idea executed perfectly. What I meant to say here is that without execution, a good idea has little utility._

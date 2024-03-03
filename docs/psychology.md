@@ -16,7 +16,7 @@ permalink: /psychology/
 - **Illusory correlation**: We jump to conclusions about the relationship between two unrelated variables
 - **Primacy effect** - Believing the data that we see first
 - **Recency effect** — We think the future will be most similar to the most recent past
-- **Survivorship bias** - TODO
+- **Survivorship bias**
 
 **Combating biases**:
 
@@ -80,7 +80,7 @@ The inverse of the previous.
 
 **Doubt-Avoidance Tendency**
 
-> “It’s counterproductive for a prey animal that is threatened by a predator to take a long time in deciding what to do.” - Munger
+> “It’s counterproductive for a prey animal that is threatened by a predator to take a long time in deciding what to do.” - Charlie Munger
 
 This doubt avoidance tendency is why so many entrepreneurs start companies even though they know the odds of failing are so high. In aggregate, this benefits society but at a high personal cost to many entrepreneurs.
 
@@ -92,12 +92,12 @@ The desire to resist any change in a given conclusion or belief is particularly 
 
 This is why so many businesses are now obsolete which refused to recognize the threat of personal computers and mobile devices.
 
-> "Experience tends to confirm a long-held notion that being prepared, on a few occasions in a lifetime, to act promptly in scale, in doing some simple and logical thing, will often dramatically improve the financial results of that lifetime. A few major opportunitie, clearly recognizable as such, will usually come to one who continuously searches and waits, with a curious midn that loves diagnosis involving multiple variables. And then all that is required is a willingness to bet heavily when the odds are extremely favorable, using resources available as a result of prudence and patience in the past." - Charlie Munger
+> "Experience tends to confirm a long-held notion that being prepared, on a few occasions in a lifetime, to act promptly in scale, in doing some simple and logical thing, will often dramatically improve the financial results of that lifetime. A few major opportunities, clearly recognizable as such, will usually come to one who continuously searches and waits, with a curious mind that loves diagnosis involving multiple variables. And then all that is required is a willingness to bet heavily when the odds are extremely favorable, using resources available as a result of prudence and patience in the past." - Charlie Munger
 
 **Kantian Fairness Tendency**
 
 Modern man expects a lot of fairness.
 
-“Some systems should be made deliberately unfair to individuals because they’ll be fairer on average for all of us.” - Munger
+> “Some systems should be made deliberately unfair to individuals because they’ll be fairer on average for all of us.” - Charlie Munger
 
-“Tolerating a little unfairness to some to get a greater fairness for all is a model I recommend to all of you.”
+> “Tolerating a little unfairness to some to get a greater fairness for all is a model I recommend to all of you.”

@@ -38,20 +38,16 @@ Leaders with great Strategic Thinking strengths are the ones who keep us all foc
 
 ## Perceived Strengths:
 
-- **Researching**: Especially new ways of doing things in the context of pain points
-- **Learning how things work**: I have an innate desire to understand how things work. I need to feel I understand enough context before I feel prepared to solution.
-- **Improving Processes**: Creating, retiring, and refining processes to help teams be more effective.
-- I cherish constructive feedback when delivered appropriately.
-- **Perceptive.**
-- **Detail-Oriented.**
-- **Methodical & Thoughtful.**
+- **Researching, Problem Solving, and Ideation**: These activities excite me, and I generally add value to teams when doing these activities. As a software developer, I read at least one hour a day consistently for over a decade, and reading and writing was typically my fastest path to entering a flow state.
+- **Continuous Learning & Self-Improvement**: My innate desire to understand how things work has been a significant asset in my career, as it has lead me to developing hands-on mastery of many new technologies and methodologies. As a leader, this has enabled me to lead my teams more effectively. I cherish constructive feedback.
+- **Improving Processes**: I take a balanced approach to advocating for policies that prevent issues, while challenging and removing policies that hinder progress. For example, defending an unpopular policy that required mandatory root cause analysis for all production bugs forced the team to acknowledge steps we could take to improve our accountability. By contrast, I fought and successfully overturned a policy that required developers to provide written daily scrum notes, as it undermined team autonomy and encouraged micromanagement from senior leadership.
+- **Perceptive & Detail-Oriented:** My attention to detail has been instrumental to foreseeing and mitigating risks early in the project lifecycle.
+- **Methodical & Thoughtful:** My deliberate and hands-on approach has been key to achieving successful outcomes.
 
-## Known Weaknesses
+## Areas of Active Improvement
 
-I'm working on them and welcome any constructive advice:
-
-- **Perfectionism.** To overcome this, I do well when paired with someone who is action-oriented. I also do well when I have a little too much on my plate so that I’m forced to take action. I also have to remind myself that [Done is better than Perfect](/docs/principles/done-is-better-than-perfect.md).
+- **Perfectionism:** Because I value quality, I have a tendency to spend longer than necessary on certain tasks, leading to diminishing returns. To overcome this, I do well when paired with someone who is action-oriented or when facing deadlines where I have no option but to finish the task. I remind myself often that for most tasks, [done is better than perfect](/docs/principles/progress-over-perfection.md).
 - **Analysis paralysis**: Sometimes I can get stuck when I see too many paths forward and no clear best option. In these times, being paired with someone action-oriented helps me focus and pick one of the least bad approaches.
-- **Procrastinating**: Sometimes I procrastinate tasks when I have incomplete information or don't know how to complete a task.
-- **Conflict avoidance**: As a manager, I’ve had to learn to become more direct, especially when providing negative feedback. I don’t enjoy it, but I’m getting more comfortable with it. This has led me to [Be kind, not nice](/principles/be-kind-not-nice).
-- **Impatient at times.** e.g. When it takes minutes to say what could be said in seconds; when people waste time rehashing what’s already known; when people don’t invest in their personal growth; when people obstruct. Don’t tell me why something is not possible; help me find a way to do it anyway. I have to remind myself that [people are not their behaviors](/docs/principles/people-are-not-their-behaviors).
+- **Procrastinating**: I have noticed that when I avoid important tasks, it tends to be due to conflict avoidance, having incomplete information, or not knowing how to complete the task. I have also been surprised to observe that many tasks can be avoided procrastinated indefinitely as a form of prioritization, without negative consequencess.
+- **Conflict avoidance**: As a new manager, I struggled to give direct feedback, especially when it was negative. I feared that negative reactions could lead to ireversible escalations. I learned the hard way that it is not kind to the individual or to the team to withhold necessary feedback. This has led me to [Be kind, not nice](/principles/be-kind-not-nice). Through this transformation, I have seen firsthand how direct feedback fosters a culture of excellence and accountability that attracts high performers.
+- **Navigating Impatience with Empathy** As an action-oriented leader, I am naturally inclined to push for efficiency and progress. This sometimes causes me frustration, especially when encountering repeated discussions over established facts, resistance to positive change, or a focus on obstacles rather than solutions. My leadership journey has deepened my empathy and commitment to creating an inclusive environment that supports the diverse needs of team members. When leading change, I've recognized the importance of acknowledging and validating the spectrum from resistance to eagenerness without pressing for immediate consensus or action. I've learned that leadership is a balance of pushing for progress while ensuring every team member feels heard, valued, and included. My human-centric leadership philosophy reflects my belief that true success is not merely about achieving outcomes but about supporting and developing the people who make those achievements possible.

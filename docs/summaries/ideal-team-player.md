@@ -19,8 +19,8 @@ Buy [The Ideal Team Player](https://www.amazon.com/Ideal-Team-Player-Recognize-C
 
 There are two types of humility problems:
 
-- Overtly arrogant people are easy to identify because they’re ego driven and soak up attention. It diminishes teamwork by fostering resentment, division, and politics
-- Appearing humble due to lack of self confidence. Deflated self worth hurts teams by not taking a stand when they should for their perspectives.
+- Overtly arrogant people: These are easy to identify because they’re ego driven and soak up attention. It diminishes teamwork by fostering resentment, division, and politics
+- People who appear humble due to lack of self-confidence. Their deflated self-worth hurts the teams by not taking a stand when they should for their perspectives.
 
 Insecurity is the common thread for both humility issues.
 
@@ -30,7 +30,7 @@ Humility is the most sensitive virtue, since it’s often the result of insecuri
 
 - Hungry people are always looking for more to do and more to learn.
 - They want more responsibility.
-- They’re self motivated and diligent and almost never have to be pushed by a manager.
+- They’re self-motivated, diligent, and almost never have to be pushed by a manager.
 - They’re always looking for the next opportunity and next steps.
 - They loathe the idea of being perceived as a slacker.
 - However, sometimes hungry behavior can be bad for a team. Sometimes hunger can be directed in a selfish way that puts the individual above the team.
@@ -44,11 +44,14 @@ What happens if you hire someone and then discover they are not hungry?
 
 Hunger is the least sensitive virtue but the hardest to change. It’s easy to identify and point out when someone delivers less than their peers. Goal management can help get the numbers up. But actually changing the underlying motivation can be hard. Unlike the other two virtues, some people see laziness as a good thing. It gives them more free time and less stress and responsibility.
 
-Identify which unhungry people want to change and move the others to roles that don’t require hunger. Many people are hungry in certain activities but not at work or not in the things that matter at work. Help them understand the importance of the work they’re doing. Help them understand the impact their behavior has on others —- teammates, customers, etc. Get the team to be passionate. Let the person hear how they’re motivated and how their work impacts the mission. Either the employee will become more passionate, they’ll do it to help their coworkers, or they’re just unhungry.
+Strategies for managing unhungry people:
 
-Don’t wait till performance reviews to point out when someone isn’t doing enough. Give early and frequent feedback. Tough love is very effective for personal development, but many managers and coaches are afraid to give it.
-
-Publicly encourage the employee when they start doing the things you want. Even if it’s just meeting the minimum standard that everyone else is doing. Even if they’re embarrassed. They need the positive reaffirming more than anyone else. If other employees start to resent the praise they get, it may mean they’re not as humble as they think.
+- Identify which unhungry people want to change and move the others to roles that don’t require hunger. Many people are hungry in certain activities but not at work or not in the things that matter at work.
+- Help them understand the importance of the work they’re doing.
+- Help them understand the impact their behavior has on others —- teammates, customers, etc.
+- Get the team to be passionate. Let the person hear how the team is motivated and how their work impacts the mission. Either the employee will become more passionate, they’ll do it to help their coworkers, or they’re just unhungry.
+- Don’t wait till performance reviews to point out when someone isn’t doing enough. Give early and frequent feedback. Tough love is very effective for personal development, but many managers and coaches are afraid to give it. **See: The best feedback is immediate.**
+- Publicly encourage the employee when they start doing the things you want. Even if it’s just meeting the minimum standard that everyone else is doing. Even if they’re embarrassed. They need the positive reaffirming more than anyone else. If other employees start to resent the praise they get, it may mean they’re not as humble as they think.
 
 **Smart (Emotionally Intelligent)**
 

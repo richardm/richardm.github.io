@@ -17,7 +17,12 @@ parent: Leadership Principles
 
 > "Don't take learning opportunities away from other people." - Tanya Reilly
 
+> “If you’re too busy doing the actual work, as a manager, that’s a huge mistake.” - Michael Lopp, VP of Engineering of Slack
+
+Instead, focus on doing the things only you can do. Be careful not to take on so much other stuff that you don't have the time or energy to do your best work for the stuff that only you can do.
+
 Related:
 
+- [](https://knowyourteam.com/blog/2018/03/09/the-most-surprising-principle-of-good-leadership-dont-be-busy/){:target="\_blank"}
 - **“Doing what you’re good at hurts the team.”** - Peldi Guilizzoni via [The most counterintuitive leadership tip? Leaders, stop doing what you're good at.](https://knowyourteam.com/blog/2018/12/18/the-most-counterintuitive-leadership-tip-leaders-stop-doing-what-youre-good-at/){:target="\_blank"}
 - Leadership is not making all of the decisions for your team; [leadership is communication](/principles/leadership-is-communication) and teaching your team how to make good decision.
