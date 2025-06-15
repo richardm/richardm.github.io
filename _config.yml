@@ -58,9 +58,13 @@ callouts:
 # Build settings
 # theme: just-the-docs
 remote_theme: just-the-docs/just-the-docs
+# Note: Among plugins with the same priority, they run in the order they are listed here.
+# If you have plugins which generate content and store it in site.pages, site.posts, or site.collections, put jekyll-sitemap after them if you want it to include that content and before plugins them if you don't.
+# Note that the sitemap is added to site.pages, which may impact other plugins that use site.pages.
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
