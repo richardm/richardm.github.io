@@ -1,0 +1,17 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+## Overview
+
+This is a static-generated website which uses Jekyll with the Just the Docs theme. It is deployed to GitHub Pages with a custom domain name.
+
+## Content Updates
+
+The content of this site consists primarily of markdown files. Always follow the [markdown.mdc](mdc:.cursor/rules/markdown.mdc) rules when creating or updating these pages.
+
+## Jekyll Docs
+
+You should also have access to the latest version of the Jekyll docs. Always refer to them when needed.
+

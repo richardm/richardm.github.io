@@ -27,9 +27,37 @@ url: "https://richardmorgan.com" # the base hostname & protocol for your site, e
 twitter_username: richardmorgantx
 github_username: richardm
 
+aux_links:
+  "My GitHub":
+    - "https://github.com/richardm"
+
+# Callouts:
+# The following colors are predefined: grey-lt, grey-dk, purple, blue, green, yellow, and red.
+# To use a custom color, you need to define its 000 and 300 levels in your SCSS files.
+# For example, to use pink, add the following to your _sass/custom/setup.scss file:
+# $pink-000: #ffc0cb;
+# $pink-300: #ffb6c1;
+# Source: https://just-the-docs.com/docs/configuration/#callouts
+callouts:
+  quote:
+    title: Quote
+    color: blue
+  wip:
+    title: 🚧 Work in Progress
+    color: yellow
+  critique:
+    title: Critique
+    color: red
+  personal_opinion:
+    title: Personal Opinion
+    color: purple
+  over_generalization:
+    title: Over-Generalization
+    color: grey-lt
+
 # Build settings
 # theme: just-the-docs
-remote_theme: pmarsceill/just-the-docs
+remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
@@ -56,8 +84,6 @@ plugins:
 
 ## Theme specific settings for just the docs theme
 heading_anchors: true
-
-footer_content: "Copyright &copy; 2023 Richard Morgan."
 
 # Google Analytics Tracking
 # Supports a CSV of tracking ID strings (eg. "UA-1234567-89,G-1AB234CDE5")

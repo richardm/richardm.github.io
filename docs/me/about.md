@@ -1,9 +1,32 @@
 ---
-layout: page
+layout: about
 title: About Richard
 permalink: /about/
 has_children: true
 ---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Richard Morgan",
+  "url": "https://richardmorgan.com",
+  "description": "Richard Morgan is a Director of Software Engineering living in San Francisco, CA. He has over 20 years of full stack engineering experience and writes about engineering leadership principles, growing engineers into leaders, and using AI to make teams more efficent.",
+  "givenName: "Richard",
+  "jobTitle": "Director of Engineering",
+  "knowsAbout": [
+    "Software Engineering",
+    "Engineering Leadership",
+    "Software Engineering Management",
+  ],
+  "nationality": "United States",
+  "sameAs": [
+    "https://linkedin.com/in/rickmorgan",
+    "https://medium.com/@richardmorgan",
+    "https://github.com/richardm",
+  ]
+}
+</script>
 
 # About Richard Morgan
 

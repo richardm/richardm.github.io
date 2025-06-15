@@ -1,0 +1,37 @@
+---
+description: Rules to follow when making any changes to the website theme or common components like headers or footers
+globs: 
+alwaysApply: false
+---
+# How to Theme this Site
+
+## Overriding Theme Defaults
+- We have the ability to copy the Jekyll theme into directories named `_layouts` and `_includes` and then customize them at will.
+
+## Layouts (in `_layouts` directory):
+Currently we have only defined a custom layout for blog posts (named `post`) because Just the Docs does not provide one. BEWARE, custom layouts must specify a `<head>` tag, or LIVERELOAD will not work during development.
+
+- By using layout inheritance, we use frontmatter to specify the layout we're inheriting from. This way, we only have to specify the content portion of the page, and it will be injected into the parent layouts {content} tag.
+
+## The Base theme:
+- This currently uses the base theme provided by Just the Docs
+- Just the Docs provides a `light` theme and a `dark` theme. Light is the default.
+- To create a new theme called my_theme, add a file named `_sass/color_schemes/my_theme.scss`.
+- If this theme should be based on one of the Just the Docs themes, start the custom theme file with this line: `@import "./color_schemes/light"` (or dark). Alternately, our theme can start from scratch but will need to define every single variable required.
+- This file specifies every SASS variable: https://raw.githubusercontent.com/just-the-docs/just-the-docs/refs/heads/main/_sass/support/_variables.scss
+- Never directly modify `_sass/support/_variables.scss`. Always override these in our custom theme (if any).
+
+## SCSS variables
+- Custom variables can be defined in _sass/custom/setup.scss.
+- For example, this is where we would define custom callout colors.
+
+## Custom callouts:
+These require the following 4 variables for each custom color:
+
+E.g. To create a new custom color named `pink`, add the following variables to the sass setup file:
+```
+$pink-000: #f77ef1;
+$pink-100: #f967f1;
+$pink-200: #e94ee1;
+$pink-300: #dd2cd4;
+```

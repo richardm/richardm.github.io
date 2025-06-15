@@ -1,0 +1,49 @@
+---
+description: 
+globs: *.md,*.markdown,*.html
+alwaysApply: false
+---
+# Content Pages
+
+Jekyll supports `.md`, `.markdown`, and `.html` files for website content. Always use Markdown unless there is a technical limitation that requires HTML. Always ask for permission before switching to HTML for a page.
+
+## Markdown Rules
+
+- All markdownfiles should have an .md extension
+- Every page must begin with front matter as defined below.
+
+## Front Matter Rules
+- Every markdown file must contain a frontmatter section with the following fields:
+- permalink: Always specify a permalink (relative from domain root) so that we don't break inbound links if we move files around. Do not modify an existing permalink unless explicitly instructed.
+- layout: `about` | `home` | `page` | `post`
+- title: Every page must specify a title. This shows in the site navigation so it should be relatively short (maximum 4-5 words, ideally less)
+
+Some notes:
+- Most content pages should use the "page" layout
+- Blog posts should use the "post" layout
+
+## Callouts
+
+This website supports callouts which are defined in _config.yml. The following codeblocks provide examples:
+
+A paragraph which shows as highlighted:
+```
+{: .highlight}
+A paragraph
+```
+
+A note:
+```
+{: .note}
+A note here
+```
+
+#### A note with a title:
+```
+{: .note-title}
+My note title
+
+My note contents
+```
+Output: Renders a callout with a title of "My note title" and body of "My note contents".
+
