@@ -50,11 +50,13 @@ layout: default
 
   <div class="post-content e-content" itemprop="articleBody">{{ content }}</div>
 
-  {% if jekyll.environment == 'production' -%} {% if page.comments == false -%}
+  {% comment %} TODO: Add support for comments. {% if jekyll.environment ==
+  'production' -%} {% if page.comments == false -%}
   <div class="comments-disabled-message">
     Comments have been disabled for this post.
   </div>
-  {% else -%} {%- include comments.html -%} {% endif -%} {% endif -%}
+  {% else -%} {%- include comments.html -%} {% endif -%} {% endif -%} {%
+  endcomment %}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
