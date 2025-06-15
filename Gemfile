@@ -11,19 +11,21 @@ source "https://rubygems.org"
 
 # We are constrained to the latest version supported by GitHub Pages
 # See supported dependencies here: https://pages.github.com/versions/
-gem "jekyll", "~> 3.10.0"
+gem "jekyll", "~> 4.4.1"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # gem "minima", "~> 2.5"
-gem "just-the-docs", "0.9.0"
+gem "just-the-docs", "0.10.1"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
-gem "github-pages", "~> 232", group: :jekyll_plugins
+# gem "github-pages", "~> 232", group: :jekyll_plugins
+# Note: I am now using a github actions worflow to build and deploy, so I don't think I need this anymore...
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-remote-theme", "~> 0.4.3"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
