@@ -28,8 +28,11 @@ twitter_username: richardmorgantx
 github_username: richardm
 
 aux_links:
-  "My GitHub":
+  "GitHub":
     - "https://github.com/richardm"
+  "LinkedIn":
+    - "https://www.linkedin.com/in/rickmorgan/"
+aux_links_new_tab: true
 
 # Callouts:
 # The following colors are predefined: grey-lt, grey-dk, purple, blue, green, yellow, and red.

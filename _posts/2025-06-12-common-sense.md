@@ -63,7 +63,7 @@ schema: |
   }
 ---
 
-I used to regularly defend my opinions as _common sense_. Then I read a book that completely changed my perspective.
+I used to regularly advocate for _common sense_ ideas. Then I read a book that completely changed my perspective.
 
 It opened with this line:
 

@@ -1,10 +1,12 @@
 <h2>Quick Updates</h2>
 
 <ul>
+  {% for update in site.data.recent_updates %}
   <li class="">
     <article>
-      <p class="my-0 py-0 fs-3">Cleaning up some cobwebs on this site...</p>
-      <time class="fs-2">June 14, 2025</time>
+      <p class="my-0 py-0 fs-3">{{ update.update }}</p>
+      <time class="fs-2">{{ update.date }}</time>
     </article>
   </li>
+  {% endfor %}
 </ul>
