@@ -2,6 +2,10 @@
 layout: default
 ---
 
+<script type="application/ld+json">
+  {{ page.schema | jsonify }}
+</script>
+
 <article
   class="post h-entry"
   itemscope
@@ -12,7 +16,9 @@ layout: default
       {{ page.title | escape }}
     </h1>
     {%- if page.subtitle -%}
-    <h2 class="post-subtitle">{{ page.subtitle | escape }}</h2>
+    <h2 class="post-subtitle" itemprop="alternativeHeadline">
+      {{ page.subtitle | escape }}
+    </h2>
     {%- endif -%}
     <div class="post-meta">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y"
@@ -32,26 +38,67 @@ layout: default
       <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
         {{ mdate | date: date_format }}
       </time>
-      {%- endif -%} {%- if page.author %}
+      {%- endif -%} {%- if page.schema.author -%}
+      <div
+        class="{% unless page.modified_date %}force-inline {% endunless %}post-authors"
+      >
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <span class="p-author h-card" itemprop="name"
+            >{{ page.schema.author.name }}</span
+          >
+          {%- if page.schema.author.url -%}
+          <meta itemprop="url" content="{{ page.schema.author.url }}" />
+          {%- endif -%}
+        </span>
+      </div>
+      {%- elsif page.author -%}
       <div
         class="{% unless page.modified_date %}force-inline {% endunless %}post-authors"
       >
         {%- for author in page.author %}
         <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-          <span class="p-author h-card" itemprop="name"
-            >{{ author }}</span
-          ></span
-        >
+          <span class="p-author h-card" itemprop="name">{{ author }}</span>
+        </span>
         {%- if forloop.last == false %}, {% endif -%} {% endfor %}
       </div>
-      {%- endif %}
+      {%- endif %} {%- if page.schema.keywords -%}
+      <div class="post-keywords" hidden>
+        {%- for keyword in page.schema.keywords -%}
+        <meta itemprop="keywords" content="{{ keyword }}" />
+        {%- endfor -%}
+      </div>
+      {%- endif -%}
     </div>
+
+    {%- if page.schema.image -%}
+    <meta itemprop="image" content="{{ page.schema.image }}" />
+    {%- endif -%}
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">{{ content }}</div>
 
-  {% comment %} TODO: Add support for comments. {% if jekyll.environment ==
-  'production' -%} {% if page.comments == false -%}
+  {%- if page.schema.citation -%}
+  <div class="post-citations" hidden>
+    {%- for citation in page.schema.citation -%}
+    <div itemprop="citation" itemscope itemtype="http://schema.org/Article">
+      <meta itemprop="name" content="{{ citation.name }}" />
+      <meta itemprop="url" content="{{ citation.url }}" />
+      {%- if citation.datePublished -%}
+      <meta itemprop="datePublished" content="{{ citation.datePublished }}" />
+      {%- endif -%} {%- if citation.publisher -%}
+      <div
+        itemprop="publisher"
+        itemscope
+        itemtype="http://schema.org/Organization"
+      >
+        <meta itemprop="name" content="{{ citation.publisher.name }}" />
+      </div>
+      {%- endif -%}
+    </div>
+    {%- endfor -%}
+  </div>
+  {%- endif -%} {% comment %} TODO: Add support for comments. {% if
+  jekyll.environment == 'production' -%} {% if page.comments == false -%}
   <div class="comments-disabled-message">
     Comments have been disabled for this post.
   </div>

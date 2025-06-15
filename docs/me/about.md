@@ -5,25 +5,29 @@ permalink: /about/
 has_children: true
 ---
 
+{% comment %}
+Use this tool to validate before publishing -- it will save you a lot of time and headache! https://validator.schema.org/
+{% endcomment %}
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Person",
   "name": "Richard Morgan",
   "url": "https://richardmorgan.com",
-  "description": "Richard Morgan is a Director of Software Engineering living in San Francisco, CA. He has over 20 years of full stack engineering experience and writes about engineering leadership principles, growing engineers into leaders, and using AI to make teams more efficent.",
-  "givenName: "Richard",
+  "description": "Richard Morgan is a Director of Software Engineering living in San Francisco, CA. He has over 20 years of full-stack engineering experience and writes about engineering leadership, management, and AI.",
+  "givenName": "Richard",
   "jobTitle": "Director of Engineering",
   "knowsAbout": [
     "Software Engineering",
     "Engineering Leadership",
-    "Software Engineering Management",
+    "Software Engineering Management"
   ],
   "nationality": "United States",
   "sameAs": [
     "https://linkedin.com/in/rickmorgan",
-    "https://medium.com/@richardmorgan",
-    "https://github.com/richardm",
+    "https://medium.com/@richardmorgantx",
+    "https://github.com/richardm"
   ]
 }
 </script>

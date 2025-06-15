@@ -62,3 +62,8 @@ To install various versions of Ruby:
 - The project's Ruby dependencies are specified in Gemfile and Gemfile.lock (similar to npm's package.json and package-lock.json)
 - Run `bundle install` to install your project's dependencies (it's like npm install)
 - Run `bundle add webrick` to add a dependency named webrick to the project
+
+## Live Reload (Dev) Server vs Prod Builds:
+
+- To see realtime changes in dev: `bundle exec jekyll serve --open-url --livereload --trace`
+- To build for Prod: `JEKYLL_ENV=production bundle exec jekyll build`
