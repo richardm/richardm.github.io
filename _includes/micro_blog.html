@@ -5,7 +5,10 @@
   <li class="">
     <article>
       <p class="my-0 py-0 fs-3">{{ update.update }}</p>
-      <time class="fs-2">{{ update.date }}</time>
+      <span class="fs-2"
+        >Posted by Richard on
+        <time>{{ update.date | date: "%B %d, %Y" }}</time></span
+      >
     </article>
   </li>
   {% endfor %}

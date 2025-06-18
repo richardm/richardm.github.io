@@ -3,5 +3,17 @@ layout: default
 ---
 
 <div>
-  {% include recent_posts.html %} {% include micro_blog.html %} {{ content }}
+  <h1>Richard Morgan's Engineering Leadership Blog</h1>
+  <div class="intro">
+    <p>
+      Welcome to my website! I am an engineering leader in San Francisco. I
+      write about engineering leadership, management, and AI. In my past role, I
+      was an Engineering Director. After 20 years of full-time work, I am
+      currently on a 6-12 month sabbatical, pursuing startup ideas and exploring
+      AI while I discover what I want to pursue next.
+    </p>
+  </div>
+  <div>{% include recent_posts.html %}</div>
+  <div>{% include micro_blog.html %}</div>
+  <div>{{ content }}</div>
 </div>

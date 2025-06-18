@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Homepage
+title: Home
 nav_order: 1
 ---
 
@@ -46,5 +46,49 @@ Most of my thoughts here are related to [software development](/software-enginee
 > - I want to explained why it makes various recommendations and when these recommendations would not be helpful.
 >
 > Updating this site has been a low priority for me, but one of these days I plan to overhaul it significantly, because this frankly is not production-worthy.
+
+---
+
+## Who is Richard Morgan?
+
+Unfortunately, having a super generic name like "Richard Morgan" has its challenges from an SEO perspective, and I am working on improving from page 7 in Google for my own name. While browsing for my own site, I discovered some extremely notable and talented Richard Morgans out there.
+
+For disambiguation purposes, I am not:
+
+{% comment %}
+
+<ul>
+  {% for person in site.data.richards %}
+    <li>{%
+        if person.url %}<a href="{{ person.url }}" target="_blank" rel="nofollow">{{ person.title }}</a>{% else %}{{ person.title }}{% endif
+      %}{%
+        if person.note %}<span class="mx-0 px-0">({{person.note}})</span>{% endif
+      %}</li>
+  {% endfor %}
+</ul>
+{% endcomment %}
+
+---
+
+- [Richard K. Morgan, the author](https://www.richardkmorgan.com/){:target="\_blank" rel="nofollow"}
+- [Richard Morgan†, the 9/11 First Responder](https://www.911memorial.org/connect/blog/honoring-life-911-first-responder-richard-morgan){:target="\_blank" rel="nofollow"} (but you should read his memorial)
+- [Richard A. Morgan, the Comic artist](https://www.instagram.com/richardamorgan/){:target="\_blank" rel="nofollow"}
+- [Richard J. Morgan, the journalist and writer who lives in Paris](http://charmandrigor.com/){:target="\_blank" rel="nofollow"} (he should enable SSL)
+- [Richard C. Morgan, the spine care physician in Miami, Florida](https://baptisthealth.net/doctors/richard-colin-morgan/2611627){:target="\_blank" rel="nofollow"}
+- [Richard Morgan, the men's basketball coach in Virginia](https://burams.com/news/2025/3/3/athletic-dept-richard-morgan-steps-down-as-bluefield-university-mens-basketball-coach.aspx){:target="\_blank" rel="nofollow"}
+- [Richard Morgan, the estate planning attorney in Georgia](https://morgandisalvo.com/people/richard-morgan/){:target="\_blank" rel="nofollow"}
+- [Richard Morgan, the BBC journalist in Belfast](https://x.com/bbcrichardm){:target="\_blank" rel="nofollow"}
+- [Richard G. Morgan, the trial attorney in Minnesota](https://www.huschblackwell.com/professionals/richard-morgan){:target="\_blank" rel="nofollow"}
+- [Richard Morgan, Ph.D., MSW, the clinical professor at Stony Brook](https://socialwelfare.stonybrookmedicine.edu/faculty-staff/morgan){:target="\_blank" rel="nofollow"}
+- [Richard Morgan†, the 92 year old four-time rowing world champion](https://www.rte.ie/brainstorm/2025/0218/1497376-richard-morgan-92-year-old-rowing-world-championships-fitness-health-older-adults/){:target="\_blank" rel="nofollow"}
+- [Richard Morgan, house staff at Duke Ophthalmology](https://dukeeyecenter.duke.edu/profile/richard-morgan){:target="\_blank" rel="nofollow"}
+- [Professor Richard Morgan, the Director of the Centre for Hypersonics at the University of Queensland](https://about.uq.edu.au/experts/256){:target="\_blank" rel="nofollow"}
+- [Professor Richard Morgan, Dean of Biosciences, Professor of Molecular Oncology at the University of West London](https://www.uwl.ac.uk/staff/richard-morgan){:target="\_blank" rel="nofollow"}
+- [Dr. Richard Morgan, the assistant professor at Durham University Business School](https://www.durham.ac.uk/business/our-people/r-h-morgan/){:target="\_blank" rel="nofollow"}
+- [Richard Morgan KC, the barrister at Maitland Chambers](https://www.maitlandchambers.com/our-people/profile/richard-morgan-kc){:target="\_blank" rel="nofollow"}
+- [Richard Morgan, the golf coach in Alabama](https://calhoun.edu/directory/richard-morgan/){:target="\_blank" rel="nofollow"}
+- [Richard Morgan, the Australian actor](https://www.themoviedb.org/person/137351-richard-morgan){:target="\_blank" rel="nofollow"}
+- [Richard Eugene Morgan†, the former mayor of Gillette, Wyoming](https://www.gillettenewsrecord.com/obituaries/article_fd794505-369b-4258-a906-c60c8cbcd321.html){:target="\_blank" rel="nofollow"}
+- [Morgan Richard Olivier, the author in Louisiana](https://morganrichardolivier.com/){:target="\_blank" rel="nofollow"}
 
 ![commits](https://badgen.net/github/commits/richardm/richardm.github.io/main?cache=300) ![last commit](https://badgen.net/github/last-commit/richardm/richardm.github.io/main?cache=300)

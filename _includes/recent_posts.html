@@ -1,4 +1,4 @@
-<h2>Recent Blog Posts</h2>
+<h2>Richard's Recent Articles</h2>
 
 <ul class="recent-posts">
   {% for post in site.posts limit:5 %}
@@ -8,7 +8,7 @@
     </h3>
     <div class="post-meta">
       <span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
-      <span class="post-author"
+      <span class="post-author mx-0"
         >by {{ post.author | default: "Richard Morgan" }}</span
       >
     </div>
